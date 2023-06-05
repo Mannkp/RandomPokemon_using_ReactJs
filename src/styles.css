@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main {
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+.main h1 {
+  color: blue;
+}
+.main img {
+  width: 150px;
+}
